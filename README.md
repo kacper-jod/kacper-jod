@@ -14,7 +14,28 @@ with practical implementation.
 
 ## 💻 Tech Stack
 
-**Languages:** C++, C#, R, SQL
+### Core Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Excel-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="SQL"/>
+</p>
+
+### Familiar With
+<p align="left">
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/C#-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="csharp"/>
+  <img src="https://img.shields.io/badge/C-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="c"/>
+  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+</p>
+
+### Tools & Environment
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=black" alt="Gerrit"/>
+</p>
 
 **Data & Databases:** PostgreSQL, relational database design
 
