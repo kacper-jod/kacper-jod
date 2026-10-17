@@ -17,16 +17,16 @@ with practical implementation.
 ### Core Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Excel-%23008FBA.svg?style=for-the-badge&logo=excel&logoColor=green" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Excel-%23008FBA.svg?style=for-the-badge&logo=googlesheets&logoColor=34A853" alt="Excel"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL"/>
 </p>
 
 ### Familiar With
 <p align="left">
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/C#-%23ED8B00.svg?style=for-the-badge&logo=c#&logoColor=white" alt="csharp"/>
-  <img src="https://img.shields.io/badge/C-%237F52FF.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+  <img src="https://img.shields.io/badge/C#-%23ED8B00.svg?style=for-the-badge&logo=sharp&logoColor=99CC00" alt="csharp"/>
+  <img src="https://img.shields.io/badge/c-%237F52FF.svg?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="c"/>
   <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 
