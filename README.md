@@ -3,40 +3,42 @@
   <img src="./assets/neon-pulse-banner.svg" alt="{{Kacper Jodłowski}} — {{Software Developer}} / Quantitative Analyst" width="100%" />
 </p>
 
-## About me
 
-Mathematics MSc student at the University of Wrocław,
-interested in algorithms, software engineering and
-quantitative analysis.
+# Hi, I'm Kacper 👋
 
-## Currently exploring
+I'm a Mathematics MSc student at the University of Wrocław,
+interested in algorithms, software engineering and quantitative analysis.
 
-- Mathematical modelling and statistical methods
-- Software architecture and database systems
-- Algorithms and computational problem-solving
+I enjoy solving problems that combine mathematical reasoning
+with practical implementation.
 
-## Featured projects
+## 💻 Tech Stack
 
-- [Food Manager](https://github.com/kacper-jod/Gulbee---Food-Manager)
-- [Shopping App](https://github.com/kacper-jod/Shopping-App)
-- [Sudoku Solver](https://github.com/kacper-jod/sudokuSolver)
+**Languages:** C++, C#, R, SQL
 
+**Data & Databases:** PostgreSQL, relational database design
 
-## About me
+**Areas of Interest:** Algorithms, Mathematical Modelling,
+Statistics, Software Architecture
 
-Mathematics MSc student at the University of Wrocław,
-interested in algorithms, software engineering and
-quantitative analysis.
+## ⚙️ Currently Working On
 
-## Currently exploring
+- Developing my software engineering and database design skills
+- Exploring mathematical and statistical methods computationally
+- Building a portfolio at the intersection of mathematics and programming
 
-- Mathematical modelling and statistical methods
-- Software architecture and database systems
-- Algorithms and computational problem-solving
+## 📁 My Projects
 
-## Featured projects
+| Project | Description |
+|---|---|
+| [Food Manager](https://github.com/kacper-jod/Gulbee---Food-Manager) | Application development and software architecture |
+| [Shopping App](https://github.com/kacper-jod/Shopping-App) | Database-driven application using R and PostgreSQL |
+| [Sudoku Solver](https://github.com/kacper-jod/sudokuSolver) | Algorithmic problem-solving |
+| [Rummikub](https://github.com/kacper-jod/Rummikub) | Game logic and application development |
+| [Project AI](https://github.com/kacper-jod/Project_AI) | Artificial intelligence project |
 
-- [Food Manager](https://github.com/kacper-jod/Gulbee---Food-Manager)
-- [Shopping App](https://github.com/kacper-jod/Shopping-App)
-- [Sudoku Solver](https://github.com/kacper-jod/sudokuSolver)
+## 📫 Contact
+
+- GitHub: [@kacper-jod](https://github.com/kacper-jod)
+- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/)
 
