@@ -41,12 +41,6 @@ with practical implementation.
   <img src="https://img.shields.io/badge/Gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=black" alt="Gerrit"/>
 </p>
 
-
-**Data & Databases:** PostgreSQL, relational database design
-
-**Areas of Interest:** Algorithms, Mathematical Modelling,
-Statistics, Software Architecture
-
 ## ⚙️ Currently Working On
 
 - Developing my software engineering and database design skills
