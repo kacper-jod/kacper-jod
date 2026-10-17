@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/neon-pulse-banner.svg" alt="Kacper Jodłowski — Software Developer / Quantitative Analyst" width="100%" />
+  <img src="./assets/neon-pulse-banner.svg" alt="{{Kacper Jodłowski}} — {{Software Developer}} / Quantitative Analyst" width="100%" />
 </p>
 
 ### whoami
