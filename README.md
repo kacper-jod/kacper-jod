@@ -39,6 +39,6 @@ Statistics, Software Architecture
 
 ## 📫 Contact
 
-- GitHub: [@kacper-jod](https://github.com/kacper-jod)
-- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/)
+- Email: [kacper.jodlowski.mail@gmail.com](kacper.jodlowski.mail@gmail.com)
+- LinkedIn: [Kacper Jodłowski](https://www.linkedin.com/in/kacper-jodlowski/)
 
