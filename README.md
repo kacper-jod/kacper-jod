@@ -14,28 +14,33 @@ with practical implementation.
 
 ## 💻 Tech Stack
 
+
 ### Core Technologies
+
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Excel-%23008FBA.svg?style=for-the-badge&logo=googlesheets&logoColor=34A853" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 ### Familiar With
+
 <p align="left">
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/C#-%23ED8B00.svg?style=for-the-badge&logo=sharp&logoColor=99CC00" alt="csharp"/>
-  <img src="https://img.shields.io/badge/c-%237F52FF.svg?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="c"/>
-  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
 
 ### Tools & Environment
+
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=black" alt="Gerrit"/>
 </p>
+
 
 **Data & Databases:** PostgreSQL, relational database design
 
