@@ -1,37 +1,25 @@
 
 <p align="center">
-  <img src="./assets/neon-pulse-banner.svg" alt="{{name}} — {{tagline}}" width="100%" />
+  <img src="./assets/neon-pulse-banner.svg" alt="Kacper Jodłowski — Software Developer / Quantitative Analyst" width="100%" />
 </p>
 
 ### whoami
 
-{{bio_paragraph}}
+I'm a Mathematics MSc student at the University of Wrocław,
+interested in the intersection of mathematical reasoning and
+practical software development.
 
+I enjoy understanding how things work — from algorithms and
+statistical models to database systems and software architecture.
 ### currently
 
-- {{currently_one}}
-- {{currently_two}}
-- {{currently_three}}
-
+- **Software Engineering** — designing and building maintainable applications
+- **Mathematics & Algorithms** — turning abstract ideas into working solutions
+- **Data & Quantitative Analysis** — modelling, simulation and statistical reasoning
+- 
 — [{{website}}]({{website_url}}) · [@{{twitter}}](https://twitter.com/{{twitter}})
 
 
-<h1 align="center">Kacper Jodłowski</h1>
-
-<h3 align="center">
-  Mathematics MSc Student · Software Engineer 
-</h3>
-
-<p align="center">
-  Algorithms, Mathematical Modelling, Data & Software
-</p>
-
-<p align="center">
-  <a href="https://github.com/kacper-jod">
-    <img src="https://img.shields.io/badge/GitHub-kacper--jod-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Wrocław%2C%20Poland-555555?style=for-the-badge" alt="Location" />
-</p>
 
 ---
 
