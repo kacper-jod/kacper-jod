@@ -81,11 +81,11 @@
 
   <!-- Headline -->
   <g font-family="'Space Grotesk', 'Neue Haas Grotesk', system-ui, sans-serif">
-    <text x="80" y="180" font-size="76" font-weight="800" fill="#ffffff" letter-spacing="-2">JANE DOE</text>
-    <text x="80" y="180" font-size="76" font-weight="800" fill="url(#np-spectrum)" letter-spacing="-2" filter="url(#np-glow)" opacity="0.8">JANE DOE</text>
+    <text x="80" y="180" font-size="76" font-weight="800" fill="#ffffff" letter-spacing="-2">KACPER JODŁOWSKI</text>
+    <text x="80" y="180" font-size="76" font-weight="800" fill="url(#np-spectrum)" letter-spacing="-2" filter="url(#np-glow)" opacity="0.8">KACPER JODŁOWSKI</text>
   </g>
 
-  <text x="82" y="214" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00d9ff" letter-spacing="6">FRONTEND · MOTION · WEBGL</text>
+  <text x="82" y="214" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00d9ff" letter-spacing="6">DEVELOPER · QUANT · DATA ANALYST</text>
 
   <!-- Tag chips. All four share one quiet border: four chips cycling three
        neon colours read as a carnival next to a spectrum that is already the
@@ -94,19 +94,19 @@
   <g font-family="'JetBrains Mono', monospace" font-size="11" letter-spacing="2">
     <g transform="translate(80,238)">
       <rect width="86" height="26" rx="13" fill="none" stroke="#4b3a8f" stroke-width="0.8"/>
-      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">react</text>
+      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">C++</text>
     </g>
     <g transform="translate(176,238)">
       <rect width="86" height="26" rx="13" fill="none" stroke="#4b3a8f" stroke-width="0.8"/>
-      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">typescript</text>
+      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">Rust</text>
     </g>
     <g transform="translate(272,238)">
       <rect width="86" height="26" rx="13" fill="none" stroke="#4b3a8f" stroke-width="0.8"/>
-      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">webgl</text>
+      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">python</text>
     </g>
     <g transform="translate(368,238)">
       <rect width="86" height="26" rx="13" fill="none" stroke="#4b3a8f" stroke-width="0.8"/>
-      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">motion</text>
+      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">algorithms</text>
     </g>
   </g>
 
